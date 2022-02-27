@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands redemption: or, A path way to peace: plainly demonstrating, that we shall never have any setled state, until Charles II. (Whose right it is) enjoy the crown.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83989</idno>
+            <idno type="STC">Wing E3022</idno>
+            <idno type="STC">Thomason E1019_1</idno>
+            <idno type="STC">ESTC R208242</idno>
+            <idno type="EEBO-CITATION">99867208</idno>
+            <idno type="PROQUEST">99867208</idno>
+            <idno type="VID">119510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119510)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1019[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands redemption: or, A path way to peace: plainly demonstrating, that we shall never have any setled state, until Charles II. (Whose right it is) enjoy the crown.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles King,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Marsh. 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119510:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLANDS</hi> REDEMPTION: OR, A Path Way TO PEACE: Plainly Demonſtrating, That we ſhall never have any ſetled State, UNTIL CHARLES II. (Whoſe <hi>Right</hi> it is) enjoy the Crown.</p>
+            <q>
+               <bibl>Eccleſ. 10.17.</bibl>
+               <p>Bleſſed art thou, O Land, when thy King is the Son of Nobles.</p>
+            </q>
+            <q>
+               <bibl>Lament. 5.8.</bibl>
+               <p>Servants have ruled over us, and there is none that doth deliver us out of their hands.</p>
+            </q>
+            <p>
+               <add>March .26.</add> 
+               <hi>LONDON:</hi> Printed for <hi>Charles King.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb facs="tcp:119510:2"/>
+            <pb n="3" facs="tcp:119510:2"/>
+            <head>
+               <hi>ENGLANDS</hi> REDEMPTION OR, <hi>PATH-WAY</hi> TO PEACE.</head>
+            <p>AS a diſtracted Ship (whoſe Pilot the raging violence of a tempeſtuous ſtorm, hath caſt down headlong from the Stern) ſtag<g ref="char:EOLhyphen"/>gereth to and fro amongſt the unquiet Waves of the rough Ocean; ſome<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes claſhing againſt the proud ſurly Rocks, and ſome<g ref="char:EOLhyphen"/>times reeling up and down the ſmoother waters; now threatning preſent ſhipwrack and deſtruction, by and by promiſing a ſeeming ſafety, and ſecure arrival, yet never ſetled faſt, nor abſolutely tending to the quiet and deſired Haven: So the vexed Government of frantick <hi>England,</hi> ever ſince the furious madneſs of a few turbulent Spirits beheaded our King and King<g ref="char:EOLhyphen"/>dom, threw down <hi>Charles</hi> the Martyr (our onely law<g ref="char:EOLhyphen"/>ful Governor) from the Stern of Government, and
+<pb n="4" facs="tcp:119510:3"/>took it into their unskilful and unlawful hands, it hath been toſſed up and down, ſometimes falling amongſt the lawleſs Souldiers, as a Lamb among Wolves, or as a Glaſs upon Stones) yet in all our Revolutions, (although many gaps have been laid open) the Go<g ref="char:EOLhyphen"/>vernment hath not ſteered its courſe directly to <hi>Charls</hi> the ſecond, its onely right and quiet Haven.</p>
+            <p>O therefore let our di<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>racted <hi>England</hi> be a Warn<g ref="char:EOLhyphen"/>ing-Piece to all Nations, that they never attempt to try and judge their King, for what cauſe ſoever; and let all Traytors and Tyrants in the world learn by the example of our Engliſh Rebels, that their proſperity and dominion (though it ſeemeth never ſo perpetual) is but momentany, and as the w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd which no man ſeeth; for who ſo much applauded and look'd upon, as the Long Parliament, when they firſt took upon them to correct and queſtion the King? and who now ſo ridiculous and ſcorned? They were then ad<g ref="char:EOLhyphen"/>mired by the people as the Patrons, Vindicators, Re<g ref="char:EOLhyphen"/>deemers, and Keepers of their Liberty: Nay, I may moſt truly ſay, that the people did Worſhip and Adore them, more than they did God<g ref="char:punc">▪</g> But now they aae be<g ref="char:EOLhyphen"/>come a by-word, the ſcorn and deriſion both of men, women and children<g ref="char:punc">▪</g> and hooted at by every one, as the greateſt and moſt ſhameful laughing-ſtock in the world.</p>
+            <p>O abominable! that Engliſhmen ſhould degene<g ref="char:EOLhyphen"/>rate into ſuch impudence: for this is the truth of their Caſe; Might they but ſtill have the Kings and Bi<g ref="char:EOLhyphen"/>ſhops Lands, which they have gotten by their horri<g ref="char:EOLhyphen"/>ble Treaſon and Rebellions, and be ſure to live ſecure from the puniſhment which the Law of the Land
+<pb n="5" facs="tcp:119510:3"/>would inflict upon them, they would eaſily confeſs, (if the Devil have not made them Contradictors of all manner of truth) That Monarchy is the beſt of all Governments, eſpecially for the Engliſh Nation, where (as one may ſay) it grew by Nature, until theſe Deſtroyers of the Laws of God, Nature, and the Realm, rooted it up, and endevoured to plant their fancied Commonwealth in its room, which will grow there, when Plums grow in the Sky, or when Rocks grow in the Air, not before; as you may ſee by the ſmall Root it hath taken, ever ſince the Reigne of <hi>Charles</hi> the Martyr: Reade his incomparable hea<g ref="char:EOLhyphen"/>venly Book, which will make thee weep for our loſs, but rejoyce and admire at his piety.</p>
+            <p>As for our riſing Sun, <hi>Charles</hi> the ſecond, though hitherto obſcured by the foggy Miſts of Treaſon and Rebellion in his own Kingdoms, yet do the rayes of his Sacred Majeſty ſhine throughout the world be<g ref="char:EOLhyphen"/>ſide, and his Renown ecchoeth in every part of the Earth, to the admiration of Foraign Kingdoms, and to the envy and hatred of the Rebels in his own: yet cannot their malice but marvel at the Vertues and Pa<g ref="char:EOLhyphen"/>tience of their King, whom they ſo much wrong; and it grieves them to ſee that Royall Progeny (whoſe ruine they ſo greedily hunt after) flouriſh with ſuch glorious ſplendor amongſt the Kings and Princes of the Earth, growing in favour wit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God and man, whilſt they (odious to all but themſelves) by their Tyranny and Rebellion, incur the diſpleaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re both of Heaven and Earth, and become a ridiculous Rump, the ob<g ref="char:EOLhyphen"/>ject of the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orn and Deriſion both of old and yong, rich and poor: And had not theſe infatuated Rebels
+<pb n="6" facs="tcp:119510:4"/>brazen faces to deny what their own Conſciences telleth them is true, they would preſently Declare, That the onely way to ſettle our Diſtractions, and re<g ref="char:EOLhyphen"/>ſtore our Nation to its priſtine Happineſs and Glory, were to call in the K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, and re-eſtabliſh him in his own, which they unjuſtly pocket from him: for ſo long as there is one of the Race of the <hi>Stuarts</hi> (which God long preſerve) and any Foraign King or people remain alive, we muſt never look for peace or plenty, but (as publick Thieves) always live in a poſture of War, and ever expect Foraign Nations to come in, and ſwallow us up, who account it (as indeed it is) the greateſt piece of Juſtice under the Sun, to re<g ref="char:EOLhyphen"/>venge (with our Bloods, and utter Deſtruction) the bloody Murther of <hi>Charles</hi> the firſt, and the unna<g ref="char:EOLhyphen"/>tural Baniſhment of <hi>Charles</hi> the ſecond, our onely lawful Soveraign.</p>
+            <p>Therefore let the cries of the People come unto thee, O God; and reſtore our gracious King <hi>Charles</hi> the ſecond to his Hereditary Crown, whoſe Youth thou haſt ſeaſoned with the Afflictions of King <hi>Da<g ref="char:EOLhyphen"/>vid;</hi> and clouded the Morning of his and our hap<g ref="char:EOLhyphen"/>pineſſe, with the Miſery of an unchriſtian Exile, which hath made him the fitter for his Throne, and thy Mercy.</p>
+            <p>Reſtore our Ancient Liturgy, and our Lords Spi<g ref="char:EOLhyphen"/>ritual and Temporal, to their undoubted rights and Priviledges in Parliament: Reſtore the Commons to their right Wits, and learn them to know, That the Head is above the Feet: So that our King one<g ref="char:EOLhyphen"/>ly, with the Aſſent of the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds and Commons, may make, and give us Laws, as it was in the beginning:
+<pb n="7" facs="tcp:119510:4"/>Until which time I will put down my Sails, and keep cloſe under the Haven, being ſure to have nothing elſe but Tempeſts and Storms, and no clear ſetled Weather, until then, either in Church or Common<g ref="char:EOLhyphen"/>wealth: Let our Republicans boaſt of their Free-State, or of what elſe they pleaſe; for a bone out of joynt, will never be ſetled right, but in its proper place.</p>
+         </div>
+         <div type="poem">
+            <head>On the late Miraculous Revolutions in <hi>England.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>THree Kingdoms, like one Ship, a long time lay</l>
+               <l>Black Tempeſt-proof, upon a troubled Sea,</l>
+               <l>Bandy'd from Wave to Wave, from Rock to Sand,</l>
+               <l>A prey to Pirats from a Foraign Land.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Expos'd to all the Injuries of Fate,</l>
+               <l>All the reproaches of a Bedlam State:</l>
+               <l>The brave Sails torn, the Main-Maſt cut in ſunder;</l>
+               <l>Deſtruction from above, and ruine under.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Once the baſe rout of Sailors try'd to ſteer</l>
+               <l>The giddy veſſel: but thence could appear</l>
+               <l>Nothing but mad Confuſion: Then came one,</l>
+               <l>He ſate at Helm, and his Dominion</l>
+            </lg>
+            <lg n="4">
+               <pb n="8" facs="tcp:119510:5"/>
+               <head>IV.</head>
+               <l>Frighted the bluſt'ring Billows for a while,</l>
+               <l>And made their Fury counterfeit a Smile.</l>
+               <l>Then for a time, the Bottom ſeem'd to play</l>
+               <l>Ith'wonted Channel, and the beaten way:</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Yet floated ſtill. The <hi>Rabble</hi> ſnatch'd again</l>
+               <l>Its Management: but all (alas) in vain;</l>
+               <l>No Anchor fixt, no wiſhed Shore appears,</l>
+               <l>No Haven after theſe diſtracted years.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>But when the Lawful Pilot ſhall direct</l>
+               <l>Ovr wav'ring courſe (and heav'n ſhall him protect)</l>
+               <l>The Storms ſhall laugh, the Winds rejoyce thereat,</l>
+               <l>And then our Ark ſhall finde an <hi>Arrarat.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
